@@ -1,4 +1,4 @@
-###Character Counter
+### Character Counter
 <ul>
     <li> Counts every character typed</li>
     <li> To be implemented: snips out whitespaces</li>
