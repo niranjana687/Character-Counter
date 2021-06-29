@@ -1,4 +1,4 @@
-### Character Counter
+### <a href="https://niranjana687.github.io/Character-Counter/"> Character Counter </a>
 <ul>
     <li> Counts every character typed</li>
     <li> To be implemented: snips out whitespaces</li>
