@@ -1,7 +1,7 @@
 ### <a href="https://niranjana687.github.io/Character-Counter/"> Character Counter </a>
 <ul>
     <li> Counts every character typed</li>
-    <li> To be implemented: snips out whitespaces</li>
+    <li> Snips out whitespaces</li>
 </ul>
 
 <p> PS: I had some freetime because my laptop is under service and most of my main projects are on it:( </p>
